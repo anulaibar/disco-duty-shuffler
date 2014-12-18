@@ -21,7 +21,7 @@ parents = %w(
     Johanna Annika Kajsa
 )
 
-# Vi behöver toavakter, kioskbiträden och entrévärdaar
+# Vi behöver toavakter, kioskbiträden och entrévärdar
 jobs = %w(
     Toavakter Kioskbiträden Entrévärdar
 )
